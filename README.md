@@ -1,5 +1,4 @@
 # HANDWRITTEN DIGIT RECOGNITION
-# THIS PROJECT IS DONE UNDER BHARAT INTERN
 #Project: Handwritten Digit Recognition:
 This project is a handwritten digit recognition system that detects scanned images of handwritten digits. It utilizes the MNIST dataset and implements a neural network to achieve accurate recognition of the digits.
 #Table of Contents
